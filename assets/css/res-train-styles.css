@@ -4,6 +4,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+logo { 
+  float: left;
+  display: inline-block;
+}
+
 img {
   position: left;
   height: 200px;
