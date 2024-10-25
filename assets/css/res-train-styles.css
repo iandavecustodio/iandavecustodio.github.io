@@ -9,13 +9,6 @@ logo {
   display: inline-block;
 }
 
-img {
-  position: left;
-  height: 200px;
-  width: 200px;
-  border: white;
-}
-
 .navbar {
   overflow: hidden;
   background-color: #333;
