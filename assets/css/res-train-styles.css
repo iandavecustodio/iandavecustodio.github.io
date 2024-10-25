@@ -1,11 +1,13 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
   position: left;
-  height: 50px;
-  width: 50px;
+  height: 200px;
+  width: 200px;
   border: white;
 }
 
@@ -68,3 +70,6 @@ img {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+
+
