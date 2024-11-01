@@ -1,5 +1,7 @@
 /* Global CSS rules */
 
+body { min-height: 100vh; }
+
 .material-icons,
 .material-icons-outlined {
   font-size: 35px;
