@@ -1,7 +1,5 @@
 /* Global CSS rules */
 
-
-
 .material-icons,
 .material-icons-outlined {
   font-size: 35px;
@@ -156,14 +154,16 @@ h3 {
 
 .ccode {
   font-family: "Product Sans", sans-serif;
-  font-color: #161617;
+  font-color: #5f6368;
   font-size: 15px;
+  line-height: 1.75rem;
 }
 
 .code {
   font-family: "Product Sans", sans-serif;
-  font-color: #ababab;
+  font-color: #5f6368;
   font-size: 20px;
+  margin: 3px 0 3px 0;
 }
 
 .material-icons.teacher-icon {
