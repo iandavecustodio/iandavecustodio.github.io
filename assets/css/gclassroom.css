@@ -108,7 +108,7 @@ h3 {
   height: 18.355rem;
   width: 20rem;
   margin-right: 33px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: left;
   border-radius: 13px;
   font-family: "Google Sans", Roboto, Arial, sans-serif;
@@ -134,7 +134,7 @@ h3 {
 
 .card-footer {
   border-top: 0.0625rem solid #dadce0;
-  height: 20%;
+  height: 18%;
   text-align: right;
   display: flex;
   justify-content: flex-end;
