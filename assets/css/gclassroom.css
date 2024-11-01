@@ -12,7 +12,7 @@ html, body {
 
 .main {
   padding: 30px;
-  position: fixed;
+  position: relative;
   width: 100%;
 }
 
