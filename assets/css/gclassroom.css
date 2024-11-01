@@ -13,7 +13,7 @@ body {
 .main {
   padding: 10px;
   position: left;
-  width: 100%;
+  width: 100vh;
 }
 
 h1,
@@ -157,14 +157,14 @@ h3 {
 
 .ccode {
   font-family: "Product Sans", sans-serif;
-  font-color: #5f6368;
+  font-color: #000000;
   font-size: 15px;
   line-height: 1.75rem;
 }
 
 .code {
   font-family: "Product Sans", sans-serif;
-  font-color: #5f6368;
+  font-color: #000000;
   font-size: 20px;
   margin: 3px 0 3px 0;
 }
