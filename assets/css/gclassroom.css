@@ -211,7 +211,7 @@ h3 {
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 100%) {
   .card-section {
     grid-template-columns: auto;
   }
@@ -223,27 +223,27 @@ h3 {
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 100%) {
   .card-section {
     grid-template-columns: auto auto;
   }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 100%) {
   .card-section {
     grid-template-columns: auto auto auto;
   }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 100%) {
   .card-section {
     grid-template-columns: auto auto auto auto auto;
   }
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 100%) {
   material-icons.apps-icon,
   material-icons.account-icon {
     display: none;
