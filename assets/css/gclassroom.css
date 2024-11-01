@@ -145,12 +145,16 @@ h3 {
   line-height: 1.75rem;
 }
 
-.section {
+.section, .ccode {
   font-size: 15px;
   margin: 3px 0 3px 0;
 }
 
 .teacher-name {
+  font-size: 20px;
+}
+
+.code {
   font-size: 20px;
 }
 
