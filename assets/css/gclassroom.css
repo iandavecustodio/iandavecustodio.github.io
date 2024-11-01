@@ -1,4 +1,7 @@
 /* Global CSS rules */
+body {
+  margin: 0;
+}
 
 .material-icons,
 .material-icons-outlined {
