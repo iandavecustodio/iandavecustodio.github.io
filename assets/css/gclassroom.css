@@ -80,7 +80,7 @@ h3 {
   justify-content: center;
   align-items: center;
   font-size: 20px;
-  cursor: pointer;
+  cursor: default;
 }
 
 .secondary-icon-container:hover {
@@ -113,7 +113,7 @@ h3 {
   font-family: "Google Sans", Roboto, Arial, sans-serif;
   font-size: 25px;
   color: #fff;
-  cursor: pointer;
+  cursor: default;
 }
 
 .card-header {
