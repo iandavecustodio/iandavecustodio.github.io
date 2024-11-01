@@ -145,7 +145,7 @@ h3 {
   line-height: 1.75rem;
 }
 
-.section, .ccode {
+.section {
   font-size: 15px;
   margin: 3px 0 3px 0;
 }
@@ -154,7 +154,15 @@ h3 {
   font-size: 20px;
 }
 
+.ccode {
+  font-family: "Product Sans", sans-serif;
+  font-color: #ababab;
+  font-size: 15px;
+}
+
 .code {
+  font-family: "Product Sans", sans-serif;
+  font-color: #ababab;
   font-size: 20px;
 }
 
