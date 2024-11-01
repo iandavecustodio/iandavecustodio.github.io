@@ -95,7 +95,7 @@ h3 {
 /* Card Section */
 .card-section {
   margin-top: 15px;
-  display: grid;
+  display: inline-grid;
   grid-column-gap: 30px 30px;
   justify-content: flex-start;
 }
