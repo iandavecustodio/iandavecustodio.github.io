@@ -141,17 +141,17 @@ h3 {
 }
 
 .subject-name {
-  font-size: 25px;
+  font-size: 20px;
   line-height: 1.75rem;
 }
 
 .section {
-  font-size: 20px;
+  font-size: 15px;
   margin: 3px 0 3px 0;
 }
 
 .teacher-name {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .material-icons.teacher-icon {
