@@ -4,10 +4,10 @@ format: html
 editor: visual
 ---
 
-## Please select your project's results:
+## Please select the results of your data/project:
 
-#### 1. Xiao Shan Jin: <https://iandavecustodio.github.io/portfolio/analysis/name1>.
-
+#### 1. Xiao Shan Jin: <https://iandavecustodio.github.io/portfolio/analysis/name1/>.
+#### 2. Mii Sun Joo: <https://iandavecustodio.github.io/portfolio/analysis/name1/>.
 
 
 
